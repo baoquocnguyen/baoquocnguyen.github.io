@@ -48,7 +48,7 @@
 }
 .sf-menu > li + li:after {
   content: '';
-  background-color: #ffffff;
+  background-color: #9ad9db;
   height: 5px;
   width: 1px;
   height: 41px;
@@ -129,7 +129,7 @@ sss * {
 }
 body {
   position: relative;
-  background: #1e2439;
+  background: #9ad9db;
   color: #363535;
   font: 300 18px/24px 'Open Sans', sans-serif;
 }

@@ -15,7 +15,7 @@
 	color: #fff;
 	display: inline-block;
 	margin-bottom: 37px;
-	font: 30px/52px 'Marvel', sans-serif;
+	font: 30px/52px 'inherit', inherit;
 }
 
 .owl-item {

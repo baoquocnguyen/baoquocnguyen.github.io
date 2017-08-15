@@ -18,7 +18,7 @@
 
 nav {
 	 position:relative;
-	 font-family: 'Asap', sans-serif;
+	 font-family: 'inherit', inherit;
 	 padding: 0;
 }
 
@@ -124,7 +124,7 @@ nav {
 	float: none !important;
 	text-align: center;
 	text-transform: none;
-	font: 12px/35px Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font: 12px/35px Arial, "inherit", inherit, inherit;
 }
 
 
@@ -198,7 +198,7 @@ nav {
   .navigation  nav{
   	border: none !important;
 		float:none !important;
-		font:12px/15px Arial, Helvetica, sans-serif;
+		font:12px/15px inherit, inherit, inherit;
 		text-transform:uppercase;
 		color:#927c67;
 		margin: 0 auto;
@@ -217,7 +217,7 @@ nav {
 	.sf-menu{display:none !important; float: none;}
 
 	.select-menu {
-		font:12px/15px Arial, Helvetica, sans-serif;
+		font:12px/15px inherit, inherit, inherit;
 		color:#202020;
 		width:100%;
 		margin: 0 auto;

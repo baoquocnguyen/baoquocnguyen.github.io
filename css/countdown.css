@@ -37,7 +37,7 @@
   top: 100%;
   left: 0;
   right: 0;
-  font: 14px/24px 'Open Sans', sans-serif;
+  font: 14px/24px 'inherit', inherit;
   text-transform: uppercase;
   color: #706f6e;
   position: absolute;

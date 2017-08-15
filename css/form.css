@@ -53,7 +53,7 @@
 	-webkit-box-sizing: border-box; /* Safari */
 	border: 1px solid #f1f1f1;
     color: #858585;
-    font: 12px/20px 'PT Sans', sans-serif;
+    font: 12px/20px 'inherit', inherit;
     padding: 8px 20px 14px;
 }
 
@@ -73,7 +73,7 @@
 	margin: 0;
 	background: #fff;
 	color: #858585;
-    font: 12px/20px 'PT Sans', sans-serif;
+    font: 12px/20px 'inherit', inherit;
 	border: 1px solid #f1f1f1;
     padding: 8px 20px 14px;
 }
@@ -85,7 +85,7 @@
 	-o-transition: 0.5s ease;
 	-webkit-transition: 0.5s ease;
 	color: #858585;
-    font: 12px/20px 'PT Sans', sans-serif;
+    font: 12px/20px 'inherit', inherit;
 	border: 1px solid transparent;
     padding: 8px 20px 14px;
 	height: 42px !important;
